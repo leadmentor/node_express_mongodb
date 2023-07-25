@@ -1,4 +1,4 @@
-# Nodejs Express MongoDb Starter Project
+# Nodejs Express MongoDb 
 
 ## npm install
 ## npm start
